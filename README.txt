@@ -5,8 +5,9 @@ This is a GRAPHICAL PATCH (since text is impossible) and works on the Dolphin GC
 This is my FIRST EVER mod on a game this big. So...
 - Expect inaccurate and inconsistent things. 
 - Also, expect unfinished work.
-ALSO THIS IS A BETA, THE (Sort of) FULL THING IS AIMED FOR DECEMBER 15TH 2021
 
+Translated most graphics, with many things untranslated. This seems inconsistent, but you'll have to do 
+with it. Also, this is the last update before I start working on real hardware (that works now) next year.
 
 To make it work, go into...
 WhereverYouHaveDolphinInstalled/DolphinEmulator/Load/Textures/ and extract the folder (RPUJ8P) into the textures folder.
@@ -20,5 +21,3 @@ Saetta06 (For getting me into modding and telling me the technical stuff)
 
 Any problems? Get me on Discord [ NapalmCrop || Luigi2#0416 ] or the
 issues section on Github.
-There also might be 2 READMEs, but it shouldn't matter.
-v0.9 is aimed for the 26th November 2021.
